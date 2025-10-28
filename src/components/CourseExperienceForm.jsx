@@ -3314,7 +3314,7 @@ const CourseExperienceForm = () => {
         transition={{ duration: 0.5 }}
       >
         <h1 className="text-4xl font-extrabold text-orange-800 mb-6 text-center flex items-center justify-center">
-          <span className="mr-3 text-4xl">🕉️</span> Vedic Feedback Form
+          <span className="mr-3 text-4xl">🕉️</span> Astrology Course Feedback
         </h1>
         <form onSubmit={handleSubmit}>
 
